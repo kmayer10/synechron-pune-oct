@@ -1,0 +1,4 @@
+target/
+testresults.html
+*.log
+**/bin/*.exe
